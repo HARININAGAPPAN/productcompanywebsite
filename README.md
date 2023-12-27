@@ -1,4 +1,4 @@
-![Screenshot from 2023-12-26 22-09-21](https://github.com/HARININAGAPPAN/productcompanywebsite/assets/147473910/73561ed0-74a1-4f6e-81c6-a8ade03ac910)# Web Design for a Software Product Company
+# Web Design for a Software Product Company
 
 ## AIM:
 To develop a static company website to display the software and services provided by the
